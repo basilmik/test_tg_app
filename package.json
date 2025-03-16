@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@twa-dev/sdk": "^8.0.2",
     "@vitejs/plugin-basic-ssl": "^2.0.0",
     "solid-js": "^1.9.5"
   },
